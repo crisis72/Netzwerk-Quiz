@@ -1,4 +1,4 @@
-[
+export const quizData = [
   {
     "question": "Was beschreibt die MAC-Adresse?",
     "options": [
@@ -478,4 +478,4 @@
     ],
     "answer": 1
   }
-]
+];
